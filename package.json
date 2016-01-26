@@ -1,0 +1,63 @@
+{
+  "name": "angular2-webpack-tasting",
+  "version": "1.0.0",
+  "description": "html-angular-validate-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/circy/angular2-webpack-tasting.git"
+  },
+  "keywords": [
+    "angular2",
+    "webpack"
+  ],
+  "author": "Sebastian Kreissl (@circy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/circy/angular2-webpack-tasting/issues"
+  },
+  "homepage": "https://github.com/circy/angular2-webpack-tasting#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.1",
+    "bootstrap": "^3.3.6",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.13",
+    "es7-reflect-metadata": "^1.5.5",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.0",
+    "script-loader": "^0.6.1",
+    "zone.js": "^0.5.10"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.0",
+    "exports-loader": "^0.6.2",
+    "expose-loader": "^0.7.1",
+    "file-loader": "^0.8.4",
+    "http-server": "^0.8.5",
+    "imports-loader": "^0.6.4",
+    "istanbul-instrumenter-loader": "^0.1.3",
+    "json-loader": "^0.5.3",
+    "raw-loader": "0.5.1",
+    "reflect-metadata": "0.1.2",
+    "remap-istanbul": "^0.5.1",
+    "rimraf": "^2.4.4",
+    "source-map-loader": "^0.1.5",
+    "style-loader": "^0.13.0",
+    "ts-helper": "0.0.1",
+    "ts-loader": "^0.8.0",
+    "ts-node": "^0.5.5",
+    "tsconfig-lint": "^0.5.0",
+    "tslint": "^3.2.0",
+    "tslint-loader": "^2.1.0",
+    "typedoc": "^0.3.12",
+    "typescript": "^1.7.3",
+    "typings": "^0.6.1",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.12.1",
+    "webpack-md5-hash": "0.0.4"
+  }
+}
